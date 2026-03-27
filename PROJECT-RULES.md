@@ -241,7 +241,7 @@ What goes here:
 ### Migrated from CLAUDE.md (2026-03-14-21-19-27)
 
 Previous CLAUDE.md content extracted during sync.
-Backup: `/Users/grig/work/peermesh/repo/peer-mesh-docker-lab/.dev/reference-repos/applications/langchain/.dev/ai/agents-backup/CLAUDE-2026-03-14-21-19-27.md`
+Backup: `/Users/grig/work/peermesh/repo/peermesh-docker-lab/.dev/reference-repos/applications/langchain/.dev/ai/agents-backup/CLAUDE-2026-03-14-21-19-27.md`
 
 # Global development guidelines for the LangChain monorepo
 
